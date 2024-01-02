@@ -156,7 +156,7 @@ If you encounter any issues while following this guide, please check the followi
 A: While most Android devices can be rooted, the process and tools required can vary depending on the device's manufacturer, model, and software version.
 
 **Q: Can I unroot my device?**
-A: Yes, most root managers provide an option to unroot your device.
+A: Yes, most root managers provide an option to unroot your device. If you want to unroot manually flash the stock boot.img using fastboot.
 
 ## Contributing
 
