@@ -166,10 +166,6 @@ If you have any suggestions or improvements, feel free to open an issue or make 
 
 This guide is released under the MIT License. See [LICENSE](LICENSE) for more details.
 
-## Contact
-
-If you have any questions or need further assistance, feel free to contact me at [email](mailto:your-email@example.com).
-
 ## Glossary
 
 - **Rooting**: The process of gaining privileged control (known as root access) over various Android subsystems.
